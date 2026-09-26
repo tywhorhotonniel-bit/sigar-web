@@ -1,0 +1,6 @@
+{
+  "name": "SIGAR - Sistema de Gestión de Activos y Reportes Tecnológicos",
+  "description": "Sistema local institucional para la gestión de activos, reportes tecnológicos, programación de mantenimientos preventivos y correctivos, y desincorporación oficial con actas para firma y sello húmedo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
